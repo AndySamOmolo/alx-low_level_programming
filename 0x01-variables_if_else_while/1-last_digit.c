@@ -14,9 +14,9 @@ int main(void)
         srand(time(0));
         n = rand() - RAND_MAX / 2;
 
-        int lastDigit = n % 10; // Calculate the last digit of n
+        int last = n % 10; // Calculate the last digit of n
 
-        printf("Last digit of %d is %d and is ", n, lastDigit);
+        printf("Last digit of %d is %d and is ", n, last);
 
         if (lastDigit > 5)
         {
