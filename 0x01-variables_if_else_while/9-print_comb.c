@@ -18,5 +18,5 @@ int main(void)
 				putchar(' ');
 			}
 	}
-	rewturn (0);
+	return (0);
 }
