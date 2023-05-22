@@ -9,7 +9,7 @@
 int main(void)
 {
 	char ch;
-	char b = "' ";
+	char b = "\' ";
 
 	for (ch = 0; ch <= 9; ch++)
 	{
