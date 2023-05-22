@@ -12,8 +12,8 @@ int main(void)
 
 	for (ch = '0'; ch <= '10'; ch++)
 	{
-		putchar ch;
+		putchar(ch);
 	}
-	putchar('\n')
+	putchar('\n');
 	return (0);
 }
