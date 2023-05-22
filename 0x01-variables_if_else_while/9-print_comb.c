@@ -9,12 +9,11 @@
 int main(void)
 {
 	char ch;
-	char b = '' ';
 
 	for (ch = 0; ch <= 9; ch++)
 	{
 		putchar(ch + '0');
-		putchar(b);
+		putchar(', ');
 	}
 	putchar('\n');
 }
