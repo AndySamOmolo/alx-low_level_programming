@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
- * main - Entry point
+ * _islower - Checks whether letter is lowercase
  *
  * Return: Always 0
  */
@@ -16,10 +16,4 @@ int _islower(int c)
 	{
 		return (0);
 	}
-}
-
-int main(void)
-{
-	_islower();
-	return (0);
 }
