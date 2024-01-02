@@ -1,6 +1,6 @@
 # 0x0B. C - malloc, free
 
-## GENERAL :open_book::open_book::open_book::
+## GENERAL :open_book::open_book::
 
  <ol> 
 	<li>What is the difference between automatic and dynamic allocation</li>
